@@ -80,9 +80,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        "requests",
-        "pandas",
-        "sp2ts @ git+git://github.com/SheffieldSolar/sp2ts.git#sp2ts",
+        "requests"
     ],
 
     # List additional groups of dependencies here (e.g. development
